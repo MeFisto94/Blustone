@@ -57,7 +57,7 @@ deploy:
     secure: hK0Nbui/Y0pMi5y5YX0KeCnphjnxt9CPwPdxSW8IK/9etIQVSUyLxW+i7fV4G2uzvjt7nxUIAiu39PjwW9RvcDmlJqt3vUdtRgL3qoNkm/Xqu2/Hvo1s3YwE4TQHbyaMIkw9PljzPRECPiXSJKoUgStsPXqqiZl77+hbUwUo4OEd8PWN5nsKPhdBvyPBt6ve3FXR6OsW77UksLGQMox6+m4XBhu8B3Jr5+kdjxM5A7koFtl4Nqr82wX8EV94RBf/6LLE0LM0+qJ91R2Tnzg0tC8+ccpBTaWlCW4XiSvuWzD90I+xT2WpefWKxJPlymW3cfrNG+3HgrimLuQ3Dc/RbdD689XiFWxwlRiU/ZhCsL870k358BEQOWq2mKQVzqWFtSduQ4MGBLYDPbm/Zvm3+9VhJZrrkvAPc+KEscn30HjK86nHstNWFmjPn0uuyqSURXGxpMYOfKuTF4EaYUoinrU7+HKBtmqAQU3nZdNBkRzSu+YX2eEadgZ0DF40i4OFdvGEasZm/7wHigWPH4EvcyVFcm5C4r1DGJjJ7+806LVtbUFf3x1Yy9SSRs1H3IUWtD1uGKCseJuy2g0aZkJg/NCDzHgL1dGzci0ujxeUPaBasN8OS8zNwG9cOkNVYtWxKel1ZO6YiT+NynnTCLA0u1n9MnnZzbI/yyPE9xxFM4Q=
 
   file_glob: true
-  file: "build/libs/redstone*.jar"
+  file: "build/libs/blustone*.jar"
   skip_cleanup: true
   on:
     tags: true
