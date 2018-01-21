@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch",
+    "textures": {
+        "torch": "blustone:blocks/redstone_torch_off"
+    }
+}

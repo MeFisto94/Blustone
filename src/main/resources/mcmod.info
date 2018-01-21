@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blustone",
+  "name": "Blustone",
+  "description": "A mod which supplies zero-delay repeaters, torches and unlimited length redstone wires",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/MeFisto94/blustone",
+  "updateUrl": "",
+  "authorList": ["MeFisto94"],
+  "credits": "The Forge, FML and MCP guys for making Minecraft Modding painless.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

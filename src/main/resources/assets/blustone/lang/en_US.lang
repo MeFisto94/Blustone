@@ -1,0 +1,5 @@
+tile.blustone.fast-repeater-unpowered.name=Fast Repeater (inactive)
+tile.blustone.fast-repeater-powered.name=Fast Repeater (active)
+tile.blustone.unlimited-wire.name=Unlimited Wire
+tile.blustone.fast-redstone-torch-on.name=Fast Torch (active)
+tile.blustone.fast-redstone-torch-off.name=Fast Torch (inactive)

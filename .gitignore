@@ -1,0 +1,11 @@
+run/
+build/
+out/
+.idea/
+.gradle/
+eclipse/
+README.txt
+forge-*-changelog.txt
+*.iws
+*.ipr
+*.iml
